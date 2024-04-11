@@ -1,0 +1,1 @@
+pyinstaller -w -i down.ico ETHSwapWaterfall.py
